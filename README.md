@@ -33,6 +33,13 @@ Simple run
 love breakout_love2d_demo/
 ```
 
+#### How to play
+
+* **Space** start game
+* **Left and right arrows** move the paddle
+
+No win condition, no lose condition.
+
 ## Acknowledgments
 
 * Inspired by [Gabriele's talk for GDG PISA](https://www.youtube.com/watch?v=f_0LVro9mhg)
